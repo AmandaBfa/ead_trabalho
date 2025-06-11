@@ -2,8 +2,6 @@
 
 Atividade EAD.1 2025 - Banco de Dados
 
-Repositório do projeto Trabalho Escolar para o curso de PHP.
-
 ## Sobre
 
 Este projeto contém os arquivos e códigos desenvolvidos para o trabalho academico de Banco de Dadso.
