@@ -2,6 +2,8 @@
 
 Atividade EAD.1 2025 - Banco de Dados
 
+# ead_trabalho
+
 Repositório do projeto Trabalho Escolar para o curso de PHP.
 
 ## Sobre
