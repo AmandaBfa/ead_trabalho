@@ -12,11 +12,18 @@ body {
 
 h1, h2 {
     color: #0d6efd;
+    word-break: break-word;
 }
 
 .btn {
     margin-right: 5px;
 }
+
+.btn:hover {
+    opacity: 0.9;
+    transition: opacity 0.3s ease;
+}
+
 
 #msg {
     margin-top: 10px;
@@ -30,4 +37,13 @@ h1, h2 {
 #empty-list-text {
     margin-top: 20px;
     font-style: italic;
+}
+
+table {
+    margin-top: 20px;
+}
+
+th, td {
+    text-align: center;
+    vertical-align: middle;
 }
